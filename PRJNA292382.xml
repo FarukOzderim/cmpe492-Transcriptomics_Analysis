@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT request="download accessions">
+<PROJECT accession="PRJNA292382" alias="PRJNA292382" center_name="Canovas Lab, Animal and Poultry Science, University of Guelph">
+     <IDENTIFIERS>
+          <PRIMARY_ID>PRJNA292382</PRIMARY_ID>
+          <SECONDARY_ID>SRP062209</SECONDARY_ID>
+          <EXTERNAL_ID namespace="GEO">GSE71773</EXTERNAL_ID>
+          <SUBMITTER_ID namespace="Canovas Lab, Animal and Poultry Science, University of Guelph">PRJNA292382</SUBMITTER_ID>
+     </IDENTIFIERS>
+     <NAME>Mus musculus</NAME>
+     <TITLE>Omega-3 fatty acids partially revert the metabolic gene expression profile induced by long-term calorie restriction</TITLE>
+     <DESCRIPTION>Calorie restriction (CR) consistently extends longevity and delays age-related diseases across several animal models. We have previously shown that different dietary fat sources can modulate life span and mitochondrial ultrastructure, function and membrane fatty acid composition in mice maintained on a 40% CR. In particular, animals consuming lard as the main fat source (CR-Lard) lived longer than CR mice consuming diets with soybean oil (CR-Soy) or fish oil (CR-Fish) as the predominant lipid source. In the present work, a transcriptomic analysis in liver and skeletal muscle was performed in order to elucidate possible mechanisms underlying the changes in energy metabolism and longevity induced by dietary fat in CR mice. After 8 months of CR, transcription downstream of several mediators of inflammation was inhibited in liver. In contrast, proinflammatory signaling was increased in the CR-Fish versus other CR groups. Dietary fish oil induced a gene expression pattern consistent with increased transcriptional regulation by several cytokines (TNF, GM-CSF, TGF-b) and sex hormones when compared to the other CR groups. The CR-Fish also had lower expression of genes involved in fatty acid biosynthesis and increased expression of mitochondrial and peroxisomal fatty acid b-oxidation genes than the other CR diet groups. Our data suggest that a diet high in n-3 PUFA, partially reverts CR-related changes in gene expression of key processes, such as inflammation and steroid hormone signaling, and this may mitigate life span extension with CR in mice consuming diets high in fish oil. Overall design: Sixteen male C57BL/6 mice were purchased at 14 weeks of age from the Jackson Laboratory (Sacramento, CA) and fed a commercial rodent chow diet (Harlan Teklad #7012). The mice were allowed ad libitum access to food and their food intake was monitored for two weeks. At 4 months of age, the animals were randomly assigned to four groups. The Control group received 95% of the daily ad libitum caloric intake (13.6 kcal/day) to avoid excessive weight gain and obesity, and the other three groups received 60% of the ad libitum consumption (8.6 kcal/day). A total of 31 mice samples (eight control, eight fish, eight lard and seven soy distributed in liver (n=16) and muscle (n=15) tissues) were analyzed by RNA-Sequencing. However, 2 samples (1071 control liver [JFM42H], 1125 fish muscle [JFM45D]) were discarded for further analysis after performing cluster analysis (they were clustering in a different groups). Also their RIN values were not as high as those of the other samples, indicating lower quality of the RNA.</DESCRIPTION>
+     <SUBMISSION_PROJECT>
+          <SEQUENCING_PROJECT/>
+          <ORGANISM>
+               <TAXON_ID>10090</TAXON_ID>
+               <SCIENTIFIC_NAME>Mus musculus</SCIENTIFIC_NAME>
+          </ORGANISM>
+     </SUBMISSION_PROJECT>
+     <RELATED_PROJECTS>
+          <RELATED_PROJECT>
+               <PARENT_PROJECT accession="PRJNA9559"/>
+          </RELATED_PROJECT>
+     </RELATED_PROJECTS>
+     <PROJECT_LINKS>
+          <PROJECT_LINK>
+               <XREF_LINK>
+                    <DB>ENA-SAMPLE</DB>
+                    <ID>SRS1029542-SRS1029570</ID>
+               </XREF_LINK>
+          </PROJECT_LINK>
+          <PROJECT_LINK>
+               <XREF_LINK>
+                    <DB>ENA-EXPERIMENT</DB>
+                    <ID>SRX1140365-SRX1140393</ID>
+               </XREF_LINK>
+          </PROJECT_LINK>
+          <PROJECT_LINK>
+               <XREF_LINK>
+                    <DB>ENA-RUN</DB>
+                    <ID>SRR2153293-SRR2153321</ID>
+               </XREF_LINK>
+          </PROJECT_LINK>
+          <PROJECT_LINK>
+               <XREF_LINK>
+                    <DB>ENA-FASTQ-FILES</DB>
+                    <ID><![CDATA[http://www.ebi.ac.uk/ena/data/warehouse/filereport?accession=PRJNA292382&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+               </XREF_LINK>
+          </PROJECT_LINK>
+          <PROJECT_LINK>
+               <XREF_LINK>
+                    <DB>ENA-SUBMITTED-FILES</DB>
+                    <ID><![CDATA[http://www.ebi.ac.uk/ena/data/warehouse/filereport?accession=PRJNA292382&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+               </XREF_LINK>
+          </PROJECT_LINK>
+     </PROJECT_LINKS>
+     <PROJECT_ATTRIBUTES>
+          <PROJECT_ATTRIBUTE>
+               <TAG>ENA-REFSEQ</TAG>
+               <VALUE>N</VALUE>
+          </PROJECT_ATTRIBUTE>
+          <PROJECT_ATTRIBUTE>
+               <TAG>PROJECT-ID</TAG>
+               <VALUE>292382</VALUE>
+          </PROJECT_ATTRIBUTE>
+          <PROJECT_ATTRIBUTE>
+               <TAG>NCBI-PROJECT-TYPE</TAG>
+               <VALUE>SUBMISSION</VALUE>
+          </PROJECT_ATTRIBUTE>
+          <PROJECT_ATTRIBUTE>
+               <TAG>ENA-FIRST-PUBLIC</TAG>
+               <VALUE>2015-08-18</VALUE>
+          </PROJECT_ATTRIBUTE>
+          <PROJECT_ATTRIBUTE>
+               <TAG>ENA-LAST-UPDATE</TAG>
+               <VALUE>2018-01-28</VALUE>
+          </PROJECT_ATTRIBUTE>
+     </PROJECT_ATTRIBUTES>
+</PROJECT>
+</ROOT>
