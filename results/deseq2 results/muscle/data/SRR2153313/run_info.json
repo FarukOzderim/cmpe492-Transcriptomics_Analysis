@@ -1,0 +1,13 @@
+{
+	"n_targets": 119414,
+	"n_bootstraps": 100,
+	"n_processed": 15077432,
+	"n_pseudoaligned": 13527544,
+	"n_unique": 4280419,
+	"p_pseudoaligned": 89.7,
+	"p_unique": 28.4,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Tue May 26 18:48:17 2020",
+	"call": "kallisto quant -i ../musMusculusIndex --threads=8 -b 100 --single -l 180 -s 20 -o . ./SRR2153313.fastq.gz"
+}
