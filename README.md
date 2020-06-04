@@ -12,22 +12,27 @@ This data has 3 diets + 1 control diet over musmusculus. It is a study with name
 
 You can run all the steps except deseq2 analysis with
 
+```shell
 bash scriptForAll.sh
+```
 
 be careful that it will download 40gb of data and run ~8 hours after download.
 
 You can use metadataLike.txt and differentiate liver and muscle data like in 
 
-results/muscle/data
+-results/muscle/data
 
-results/liver/data
+-results/liver/data
 
-results/muscle/metadata.txt
+-results/muscle/metadata.txt
 
-results/liver/metadata.txt
+-results/liver/metadata.txt
+
 
 and run script1.r to script4.r with R. That will apply deseq2 and functional analysis.
 
+
+## 
 
 
 My results are under results segment.
