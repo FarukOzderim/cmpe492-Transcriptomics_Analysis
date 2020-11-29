@@ -25,13 +25,13 @@ be careful that it will download 40gb of data and run ~8 hours after download on
 
 You can use metadataLike.txt and differentiate liver and muscle data like in 
 
--results/muscle/data
+-results/deseq2 results/muscle/data
 
--results/liver/data
+-results/deseq2 results/liver/data
 
--results/muscle/metadata.txt
+-results/deseq2 results/muscle/metadata.txt
 
--results/liver/metadata.txt
+-results/deseq2 results/liver/metadata.txt
 
 
 and run script1.r to script4.r with R. This will apply deseq2 and functional analysis.
