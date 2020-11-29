@@ -34,7 +34,7 @@ You can use metadataLike.txt and differentiate liver and muscle data like in
 -results/deseq2 results/liver/metadata.txt
 
 
-and run script1.r to script4.r with R. This will apply deseq2 and functional analysis.
+and run script1,2,3,4.r one by one with R. This will apply deseq2 and functional analysis.
 
 # Results
 
