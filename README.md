@@ -21,7 +21,7 @@ You can run download dataset and data quantification steps with
 bash scriptForAll.sh
 ```
 
-be careful that it will download 40gb of data and run ~8 hours after download on a standard pc.
+be careful that this will download 40gb of data and run ~8 hours after download on a standard pc.
 
 You can use metadataLike.txt and differentiate liver and muscle data like in 
 
