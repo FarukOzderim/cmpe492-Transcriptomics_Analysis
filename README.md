@@ -4,7 +4,7 @@ Deseq2 and functional analysis over a diet data on mus musculus.
 
 _By FarukOzderim_  
 
-Data:  
+# Data:  
 https://www.ebi.ac.uk/ena/data/view/PRJNA292382
 
 This data has 3 diets + 1 control diet over musmusculus. It is a study with name "Omega-3 fatty acids partially revert the metabolic gene expression profile induced by long-term calorie restriction". Dataset contains single raw RNA information from liver and muscle.
