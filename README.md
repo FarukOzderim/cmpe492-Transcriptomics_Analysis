@@ -15,7 +15,7 @@ Dataset contains single raw RNA-sequences from liver and muscle.
 
 
 # Run
-You can run all the steps except deseq2 analysis with
+You can run download dataset and data quantification steps with
 
 ```shell
 bash scriptForAll.sh
