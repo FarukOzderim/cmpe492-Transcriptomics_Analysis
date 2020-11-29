@@ -1,6 +1,6 @@
 # cmpe492-GEM
 
-Deseq2 and functional analysis over a diet data  
+Deseq2 and functional analysis over a diet data on mus musculus.
 
 _By FarukOzderim_  
 
@@ -32,13 +32,13 @@ You can use metadataLike.txt and differentiate liver and muscle data like in
 and run script1.r to script4.r with R. That will apply deseq2 and functional analysis.
 
 
-## 
+##
 
 
 My results are under results segment.
 
 
-_Reference:_
+# _Reference:_
 
 I used this workshop as a reference for my work:
 
