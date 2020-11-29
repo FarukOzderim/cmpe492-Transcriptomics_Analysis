@@ -1,4 +1,4 @@
-# cmpe492-GEM
+# cmpe492-Transcriptomics_Analysis
 
 Applied Data Quantification, Differential Expression and Functional analysis to analyze transcriptomics data of mus musculus over a diet data.
 
