@@ -43,7 +43,7 @@ and run script1,2,3,4.r one by one with R. This will apply deseq2 and functional
 # Results
 
 
-My results are under results segment.
+You can find my kallisto, differential expression, functional analysis results are under [results](https://github.com/FarukOzderim/cmpe492-Transcriptomics_Analysis/tree/master/results) segment.
 
 
 # _Reference:_
