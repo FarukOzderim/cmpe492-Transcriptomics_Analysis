@@ -1,6 +1,8 @@
 # cmpe492-Transcriptomics_Analysis
 
-Applied Data Quantification, Differential Expression and Functional analysis to analyze transcriptomics data of mus musculus over a diet data.
+This is my Bachelor Degree Senior Project.
+
+I Applied Data Quantification, Differential Expression and Functional analysis to analyze transcriptomics data of mus musculus over a diet data.
 
 _By FarukOzderim_  
 
