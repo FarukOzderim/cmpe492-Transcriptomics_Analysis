@@ -27,7 +27,9 @@ bash scriptForAll.sh
 
 be careful that this will download 40gb of data and run ~8 hours after download on a standard pc.
 
-You can use metadataLike.txt and differentiate liver and muscle data like in 
+
+After this step for differential expression and functional analysis
+You can move kallisto outputs into a data directory, and use metadataLike.txt and differentiate liver and muscle data like in 
 
 -results/deseq2 results/muscle/data
 
@@ -38,7 +40,7 @@ You can use metadataLike.txt and differentiate liver and muscle data like in
 -results/deseq2 results/liver/metadata.txt
 
 
-and run script1,2,3,4.r one by one with R. This will apply deseq2 and functional analysis.
+and run script1,2,3,4.r one by one with R in that directory. This will apply deseq2 and functional analysis.
 
 # Results
 
