@@ -2,7 +2,7 @@
 
 This is my Bachelor Degree Senior Project.
 
-I Applied Data Quantification, Differential Expression and Functional analysis to analyze transcriptomics data of mus musculus over a diet data.
+I applied Data Quantification, Differential Expression and Functional analysis to analyze transcriptomics data of mus musculus over a diet data.
 
 Please look into the [project poster](https://github.com/FarukOzderim/cmpe492-Transcriptomics_Analysis/blob/master/cmpe492_poster.pdf) for more information.
 
